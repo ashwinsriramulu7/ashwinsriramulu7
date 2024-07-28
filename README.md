@@ -11,8 +11,11 @@
 
 ## About Me
 I'm a sophomore student at SRM KTR, pursuing B.Tech in Computer Science Engineering with a specialization in Applied AI & ML under the CINTEL department. I'm passionate about full-stack development and constantly exploring new technologies.
-
-### Tagline: <insert something cool that a fullstack dev would say>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=0038F7&center=true&vCenter=true&width=435&lines=Eat+%E2%86%92+Sleep+%E2%86%92+Code+%E2%86%92+Repeat" alt="Typing SVG" />
+  </a>
+</div>
 
 ## Technologies & Tools
 <div align="left">
