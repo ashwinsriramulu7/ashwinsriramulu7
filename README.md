@@ -9,7 +9,7 @@
 
 
 ## About Me
-I'm a sophomore student at SRM KTR, pursuing B.Tech in Computer Science Engineering with a specialization in Applied AI & ML under the CINTEL department. I'm passionate about full-stack development and constantly exploring new technologies.
+I'm a sophomore at SRM KTR, pursuing a B.Tech in Computer Science Engineering, specializing in AI & ML under the Department of computational intelligence. I'm passionate about full-stack development and constantly exploring new technologies.
 
 <div align="center">
   <a href="https://git.io/typing-svg">
