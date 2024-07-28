@@ -13,9 +13,22 @@
 I'm a sophomore student at SRM KTR, pursuing B.Tech in Computer Science Engineering with a specialization in Applied AI & ML under the CINTEL department. I'm passionate about full-stack development and constantly exploring new technologies.
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=0038F7&center=true&vCenter=true&width=435&lines=Eat+%E2%86%92+Sleep+%E2%86%92+Code+%E2%86%92+Repeat" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=00000000&center=true&vCenter=true&width=435&lines=Eat+%E2%86%92+Sleep+%E2%86%92+Code+%E2%86%92+Repeat" alt="Typing SVG" style="font-size: 24px; animation: color-change 5s infinite;">
   </a>
 </div>
+
+<style>
+@keyframes color-change {
+  0% { color: violet; }
+  14% { color: indigo; }
+  28% { color: blue; }
+  42% { color: green; }
+  57% { color: yellow; }
+  71% { color: orange; }
+  85% { color: red; }
+  100% { color: violet; }
+}
+</style>
 
 ## Technologies & Tools
 <div align="left">
