@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="https://github.com/RJohnPaul/RJohnPaul/blob/5e246f3b2a7726dcc3e617c25de1569769ef697d/Final%20Result%20(1).png" alt="Header Image"/>
-</div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
