@@ -1,11 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=40&pause=1700&color=800020&center=true&vCenter=true&width=435&lines=Namaste!+I'm+Ashwin+Sriramulu;A+Fullstack+Developer+in+the+Making" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=35&pause=1700&color=800020&center=true&vCenter=true&width=600&lines=Namaste!+I'm+Ashwin+Sriramulu;A+Fullstack+Developer+in+the+Making" alt="Typing SVG" />
   </a>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=1000&color=E0DFDB&center=true&vCenter=true&width=435&lines=Check+out+my+projects+and+repos!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=25&pause=1000&color=E0DFDB&center=true&vCenter=true&width=600&lines=Check+out+my+projects+and+repos!" alt="Typing SVG" />
   </a>
 </div>
+
 
 ## About Me
 I'm a sophomore student at SRM KTR, pursuing B.Tech in Computer Science Engineering with a specialization in Applied AI & ML under the CINTEL department. I'm passionate about full-stack development and constantly exploring new technologies.
