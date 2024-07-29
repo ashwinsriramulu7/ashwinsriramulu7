@@ -41,8 +41,8 @@ I'm a sophomore at SRM KTR, pursuing a B.Tech in Computer Science Engineering, s
         <br>Java
       </td>
       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-        <br>PHP
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50"/>
+        <br>Go
       </td>
       <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
@@ -59,16 +59,12 @@ I'm a sophomore at SRM KTR, pursuing a B.Tech in Computer Science Engineering, s
         <br>Python
       </td>
       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="Groovy" width="50" height="50"/>
-        <br>Groovy
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
+        <br>Flask
       </td>
       <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
         <br>TensorFlow
-      </td>
-      <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50"/>
-        <br>scikit-learn
       </td>
       <td align="center" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50" height="50"/>
@@ -81,6 +77,11 @@ I'm a sophomore at SRM KTR, pursuing a B.Tech in Computer Science Engineering, s
       <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
         <br>NumPy
+      </td>
+            </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="Groovy" width="50" height="50"/>
+        <br>Groovy
       </td>
       <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
@@ -108,14 +109,4 @@ You can connect with me on [LinkedIn](#) or reach out via email.
 ## Future Plans
 I plan to start a YouTube channel to share software engineering and development tutorials. Stay tuned!
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YourUsername&theme=blueberry-duo&border_radius=20" alt="GitHub Streak" /></a>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YourUsername&theme=dark"/>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/YourUsername/count.svg" alt="profile views" /></p>
-</div>
 
-<div align="center">
-  <br>
-    <img src="https://img.shields.io/badge/Keep%20Coding%20and%20Exploring-blue.svg" width="400px">
-  <br>
-</div>
