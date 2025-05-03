@@ -1,9 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=37&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=I'm+Ashwin+Sriramulu;A+Fullstack+Dev+in+the+Making" alt="Typing SVG" />
-  </a>
-  <a href="https://git.io/typing-svg"> alt="Typing SVG" />
-  </a>
+ 
 </div>
 
 ## About Me
