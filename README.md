@@ -29,6 +29,9 @@ I'm a sophomore at SRM KTR, pursuing a B.Tech in Computer Science Engineering, s
       <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/><br>MongoDB
       </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/><br>Pandas
+      </td>
     </tr>
     <tr>
       <td align="center" width="100">
@@ -45,9 +48,6 @@ I'm a sophomore at SRM KTR, pursuing a B.Tech in Computer Science Engineering, s
       </td>
       <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/><br>NumPy
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/><br>Pandas
       </td>
     </tr>
   </table>
