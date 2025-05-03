@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=37&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=Namaste!+I'm+Ashwin+Sriramulu;A+Fullstack+Dev+in+the+Making" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=37&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=I'm+Ashwin+Sriramulu;A+Fullstack+Dev+in+the+Making" alt="Typing SVG" />
   </a>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Check+out+my+projects+and+repos!" alt="Typing SVG" />
@@ -106,5 +106,4 @@ You can connect with me on [LinkedIn](#) or reach out via email.
 - Participated in CINTEL's Appathon 2023, Pentathon 2024, and Next Gen AI.
 - Learning about automobiles, especially cars and bikes.
 
-## Future Plans
-I plan to start a YouTube channel to share software engineering and development tutorials. Stay tuned!
+
