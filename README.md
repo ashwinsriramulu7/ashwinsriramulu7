@@ -17,18 +17,12 @@ I'm a sophomore at SRM KTR, pursuing a B.Tech in Computer Science Engineering, s
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-        <br>JavaScript
-      </td>
+
       <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
         <br>Node.js
       </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-        <br>React
-      </td>
+
       <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
         <br>Spring Boot
@@ -45,10 +39,7 @@ I'm a sophomore at SRM KTR, pursuing a B.Tech in Computer Science Engineering, s
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
         <br>MongoDB
       </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-        <br>PostgreSQL
-      </td>
+
     </tr>
     <tr>
       <td align="center" width="100">
@@ -59,10 +50,7 @@ I'm a sophomore at SRM KTR, pursuing a B.Tech in Computer Science Engineering, s
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
         <br>Flask
       </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
-        <br>TensorFlow
-      </td>
+
       <td align="center" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50" height="50"/>
         <br>C
@@ -76,9 +64,7 @@ I'm a sophomore at SRM KTR, pursuing a B.Tech in Computer Science Engineering, s
         <br>NumPy
       </td>
             </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="Groovy" width="50" height="50"/>
-        <br>Groovy
+
       </td>
       <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
