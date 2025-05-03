@@ -18,9 +18,6 @@ I'm a sophomore at SRM KTR, pursuing a B.Tech in Computer Science Engineering, s
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/><br>Node.js
-      </td>
-      <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/><br>Spring Boot
       </td>
       <td align="center" width="100">
@@ -55,8 +52,6 @@ I'm a sophomore at SRM KTR, pursuing a B.Tech in Computer Science Engineering, s
     </tr>
   </table>
 </div>
-
-
 
 ## Certifications
 - Machine Learning Specialization - Coursera
