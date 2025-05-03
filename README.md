@@ -2,8 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=37&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=I'm+Ashwin+Sriramulu;A+Fullstack+Dev+in+the+Making" alt="Typing SVG" />
   </a>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Check+out+my+projects+and+repos!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"> alt="Typing SVG" />
   </a>
 </div>
 
@@ -91,8 +90,7 @@ I'm a sophomore at SRM KTR, pursuing a B.Tech in Computer Science Engineering, s
   </table>
 </div>
 
-## Projects
-Check out my projects, including my <a href="https://github.com/ashwinsriramulu7/InstagramCloneAppAndroid">Instagram Android App clone</a> and more on my GitHub repositories.
+
 
 ## Certifications
 - Machine Learning Specialization - Coursera
